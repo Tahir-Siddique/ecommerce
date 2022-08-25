@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Jacket",
+        "rating": "4.5",
+        "price": "400",
+        "image": "https://picsum.photos/200/300?1"
+    },
+    {
+        "id": 2,
+        "name": "Pent",
+        "rating": "4.6",
+        "price": "400",
+        "image": "https://picsum.photos/200/300?2"
+    },
+    {
+        "id": 3,
+        "name": "Coat",
+        "rating": "4.7",
+        "price": "400",
+        "image": "https://picsum.photos/200/300?3"
+    },
+    {
+        "id": 4,
+        "name": "Shalwar",
+        "rating": "4.8",
+        "price": "400",
+        "image": "https://picsum.photos/200/300?4"
+    },
+    {
+        "id": 5,
+        "name": "Kameez",
+        "rating": "4.9",
+        "price": "400",
+        "image": "https://picsum.photos/200/300?5"
+    }
+]
